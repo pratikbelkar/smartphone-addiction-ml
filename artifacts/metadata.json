@@ -1,0 +1,18 @@
+{
+  "features": [
+    "daily_screen_time_hours",
+    "social_media_hours",
+    "gaming_hours",
+    "phone_checks_per_day",
+    "night_use_minutes",
+    "sleep_hours",
+    "study_hours"
+  ],
+  "labels": [
+    "Low",
+    "Moderate",
+    "High"
+  ],
+  "model": "Random Forest",
+  "data_type": "synthetic demonstration"
+}
